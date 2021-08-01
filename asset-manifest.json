@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/prakashnaidu.in/static/css/main.bab0b925.chunk.css",
-    "main.js": "/prakashnaidu.in/static/js/main.3c6ff803.chunk.js",
-    "main.js.map": "/prakashnaidu.in/static/js/main.3c6ff803.chunk.js.map",
-    "runtime-main.js": "/prakashnaidu.in/static/js/runtime-main.4fcbefec.js",
-    "runtime-main.js.map": "/prakashnaidu.in/static/js/runtime-main.4fcbefec.js.map",
-    "static/js/2.42ecaacc.chunk.js": "/prakashnaidu.in/static/js/2.42ecaacc.chunk.js",
-    "static/js/2.42ecaacc.chunk.js.map": "/prakashnaidu.in/static/js/2.42ecaacc.chunk.js.map",
-    "index.html": "/prakashnaidu.in/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/prakashnaidu.in/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.42ecaacc.chunk.js.LICENSE.txt": "/prakashnaidu.in/static/js/2.42ecaacc.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.bab0b925.chunk.css",
+    "main.js": "./static/js/main.3c6ff803.chunk.js",
+    "main.js.map": "./static/js/main.3c6ff803.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.82aee45e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.82aee45e.js.map",
+    "static/js/2.42ecaacc.chunk.js": "./static/js/2.42ecaacc.chunk.js",
+    "static/js/2.42ecaacc.chunk.js.map": "./static/js/2.42ecaacc.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.bab0b925.chunk.css.map": "./static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.42ecaacc.chunk.js.LICENSE.txt": "./static/js/2.42ecaacc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fcbefec.js",
+    "static/js/runtime-main.82aee45e.js",
     "static/js/2.42ecaacc.chunk.js",
     "static/css/main.bab0b925.chunk.css",
     "static/js/main.3c6ff803.chunk.js"
